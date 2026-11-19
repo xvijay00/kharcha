@@ -1,0 +1,18 @@
+{
+  "name": "Kharcha — Smart Business Manager",
+  "short_name": "Kharcha",
+  "description": "Mobile-first PWA for multi-business expense, Khata, inventory & POS",
+  "start_url": "/",
+  "display": "standalone",
+  "background_color": "#f9fafb",
+  "theme_color": "#2563eb",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any maskable"
+    }
+  ]
+}
